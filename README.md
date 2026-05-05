@@ -14,13 +14,6 @@ This project analyzes a supply chain dataset to understand delivery delays, iden
 
 ---
 
-## Dataset
-Dataset not included due to size.
-
-(Add your dataset link here if available)
-
----
-
 ## Work Done
 
 ### Data Preparation
@@ -51,7 +44,7 @@ Dataset not included due to size.
     - Department  
     - Order Type
    
-![Chart 1](images/bottleneck_detectin.png)
+![Chart 1](images/bottleneck_detection.png)
 
 - **Root Cause Analysis**
   - Identified top factors contributing to delays by region
